@@ -1,0 +1,7 @@
+    .crystal-image {
+      width: 200px;
+      height: 200px;
+    }
+    body {
+      background-image: url("../images/kim-horse.png");
+    }
