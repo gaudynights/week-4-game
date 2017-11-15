@@ -42,7 +42,7 @@ console.log(numberOptions);
     // This will allow the CSS to take effect.
     imageCrystal.addClass("crystal-image");
 
-    // Each imageCrystal will be given a src link to the crystal image
+    // assign an image from the image list to the crystal
     imageCrystal.attr("src", imgOptions[i]);
 
 
